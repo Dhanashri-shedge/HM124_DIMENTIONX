@@ -3,10 +3,10 @@
 A comprehensive platform for vendors and suppliers to manage bulk orders, payments, and deliveries efficiently.
 
 ## Team Members:
-Dhanashri Shedge
-Madhura Mujumale
-Anamika Mate
-Vaibhav Pachpute
+Dhanashri Shedge, 
+Madhura Mujumale, 
+Anamika Mate, 
+Vaibhav Pachpute,
 
 ## Features
 
